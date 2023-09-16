@@ -1,0 +1,5527 @@
+{
+    "guilds": {
+        "982468162438201395": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1033464907833802804": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "972142466952208424": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "755657383501496411": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1029370921926000753": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "913780650383900702": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1103253706490789928
+        },
+        "1085165601774915716": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "950587318199263242": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1127641462939590717
+        },
+        "605610987135172610": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "869249877643763752": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1102116207391428648": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "850309920133873664": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1115452800063770664
+        },
+        "1068720420192260096": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "983772017381744680": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1048072669876195369": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "938667941766000670": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1064511184662962246": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "851668843146248232": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1077665828243247185": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "415630676050706433": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1006217390461296690": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1016960892421812284": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": "https://discord.com/api/webhooks/1103142396906184725/Z0LID5feThLq6MYo6_TzhaQUHh-c95ucSF7Q3mRt9nNX1VYRgH1-vX2RLvOuFzBCmMws",
+            "aich": 1099351008171261992
+        },
+        "1071762083936489544": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1057222200240918539": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1095382520025071647": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1096352321778241538
+        },
+        "917352705356341260": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1096491338876338287": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1097201372560101406": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1052470361834410024": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1010134124490666025": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": "https://discord.com/api/webhooks/1103143524108619848/3gZvbD36SmzIiLZKhdfBotGcQJEvw9DPCu_kMhabJEQhZUBbgKN2qPFQAGai3r-mRLpX",
+            "aich": 1102962139179790416
+        },
+        "987743249034788904": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": "https://discord.com/api/webhooks/1103145155629944963/IKAQKoRQ6TRquRFOqcUVJWSCUWcgaw9wnWnxVlmagCOCn1d8T7Z3Ljlwhlc6orXHtWO0",
+            "aich": 1103144320187506758
+        },
+        "1090284058736611328": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1093507568170708992": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": "https://discord.com/api/webhooks/1103147185337552937/fTOZ_9zJGLcEEB7IVUbNz-o_VxcFWPjj2QNvT_c9MQtUTUwZZy9CJWm274SswESo_8_f",
+            "aich": 1103147119596023808
+        },
+        "1058002858861133894": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "968742392507293756": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": "https://discord.com/api/webhooks/1103145672972189787/mOzosBRv3B2HAdCmVw7OsjoNNs1LkoM9otZqF0imv9_a-0NnLkNRO3kq1j3azPfY2t8q",
+            "aich": 1103145591548162118
+        },
+        "1041669754991169557": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "787725745723408455": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "729673324237684756": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1097301652148588716": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1125795563674275942
+        },
+        "698361548640354475": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1102584885203447821": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "980005922229350510": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1075295665019691008": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1058974089571737620": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "715445023776178249": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "977950662589554689": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "892804032110923797": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1007330244497252434": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "894501041721184286": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1092362420468596807": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1055388130288599100": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "475945431788945409": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1078924136040104019": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "934333141223632966": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "859438497336393759": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1028732251451687077": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1100754600333676605": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": "https://discord.com/api/webhooks/1103203381864050688/g9rShcm9CPKp44R3Ba_JwNaZmfWhM5LqL5uQIOtzxH51gzm3BXkdQCvLI0p5Fg_KpZEi",
+            "aich": 1103197094359072768
+        },
+        "1101395037964750909": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1063751197825191978": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1091655830564249620": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1085857261555028018": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1102232799181820016": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1098551234325139466": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1011705302883762216": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1044914272473460797": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1087267985602924604": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1058660812182519921": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "941249877252386826": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1059126137118269520": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1094100024721424444": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1099631941264887838": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "744880268724142111": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "952570101784281139": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1075455441611530260": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1099569773748158476": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1100611767337484388": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1088334288400961586": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1054789077897060392": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1080322515215319120": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "645994629488967700": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1102268962512838706": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1023596503652106291": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1063832004266827796": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "998990553343598592": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1052886751221383198": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1093402778015125574": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1026866945540235394": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1092744856591417364": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": "https://discord.com/api/webhooks/1103175258569187413/_YiguodmmSYM27baEtSwZ1a81iMrwcDCkwHn8WXRB7XDXfmtdI_ZEyC0sD1yxflpnZPQ",
+            "aich": 1097075592702205964
+        },
+        "1018833905996005446": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1090327290111594528": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "990830312340729866": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1099330347524706355": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1070378913072693299": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1046952018167742564": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1103174098818965504": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1075743236510990366": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1095350079826698382": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1007217158905921546": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "914491508181307412": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1048972160569446430": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1103377142856831067
+        },
+        "1039851870480511058": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1039932485506699364": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1095013847540174879": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "991685524240740473": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1078662752719077376": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1097020015083004015": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1097081034312536074": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1082175326186123314": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1038056919174221864": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1102959732978892851
+        },
+        "860957656398823475": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1039849748036857866": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1039851269084434483": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1082581799097610240": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "981744506149945444": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "867289491681443870": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1066631368177635369": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1083764787395166230": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "723138061927579749": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1090715925247963149": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "853274104067784745": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1072098142360715354": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "877276106745593926": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "877837063532191775": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1004337930711605338": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1098835310307196998": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1067081727463395389": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "833298261229830184": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "971823165351280685": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1091714112280592548": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1012398728386199714": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1068414001706434661": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1095200332998520912": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1070649371584110652": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "908570319764217886": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "736164553297231933": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1071010555986448464": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1099187901968949358": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1026202456763420802": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "852563789051199558": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1102159879302553660": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1099637087835271240": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "981447294547263489": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1039896503549968428": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1103285666898522164": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1013857318032650300": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1005882198580281445": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "992263123903975607": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1138558194034151515
+        },
+        "1101876228513869895": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "333949691962195969": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1096680127137587220": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1048854754798874734": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1064077953975210024": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1103305107279446097": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1046089126123941989": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1074732458349707344": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1074719937546948699": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "999915670349299752": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "846883824885563442": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1099008018621927617": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "982635251367034950": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1026134127512129676": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "949977417177505792": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1013289182887686205": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "996112311066579076": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1035947545240817796
+        },
+        "1101470109513568426": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "981883637580578826": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1010075255777271828": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "945826539222745168": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1080759958787858432": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1030070478703972392": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1103331864137171136": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1093575002265243740": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1097020907853205614": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1103261925355307069": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1072519616041066597": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "977228691367166032": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1056933914754699354": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "770314481279827968": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1089095288100237355": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1010466379645866024": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1094521488402567198": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1103478598721085531
+        },
+        "1082273979705872474": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1062424405671682159": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1103386759720599694": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "973833197609680896": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "908299536399757322": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1068842951171645490": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "996058373697060956": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1067845408082116668": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1103480212160774245": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "967378930476666921": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1099166454898753557": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1103539299699396728": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1088007612852883528": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1093488176649211934": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1089064895712075787": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "875967897627934730": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1075308563330781276": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1039840110310596669": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1103582122310111275": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1103580038047223911": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "948524237063331861": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1090246952081436763": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1103237481836593173": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1101095915747553340": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1103647652521975878": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "898630944615989268": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "961269433249173524": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "985926199425499188": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1080735083457171517": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "946707483492249656": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1100974758453067888": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1100312845901627422": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1088645077695475743": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "948674486775971850": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1091577568991399946": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1072029093429772398": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1066949346131714089": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1034190298743586856": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1038777041950101524": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1103611751548862484": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1103750300512309368
+        },
+        "828976510403608616": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1086374271393214514": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "994243722260791306": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1032253204722892890": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "918306711759126588": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "871816665128636417": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1103839742254125107": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1103702549107847198": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1089048698111135826": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1103691239850770452": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1069292189395452085": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1088357523666513930": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1064854205258534952": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1057561465386700845": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "914435546397421598": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1097557026105733172": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1016659025535979573": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1098436333787172894": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1058442684890632323": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1058442740762943488": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1061900489651916870": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1081863050182803476": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1103611722285199411": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1093360534180593794": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1022845863036452886": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "909621030081945641": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1103735223788765207": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1009423044063789057": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "970615465812574238": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "865308152357322775": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1100457823302856794": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1052667693641244692": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1075736415750602763": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1103482126592114689": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1104093124483096709": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1094625367626625047": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "907278763673403402": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1058444835851350026": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1007292118219370606": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1102073090009206837": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1066723013992652800": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "869831779316559934": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1003327394305806396": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "975876203544195093": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1067779789315899402": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1097487079111405571": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1094085590359744522": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1104359684904849438": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1045637586602950666": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1104382311929225298": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1104391317259288627": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1099777396258897951": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "878574136421646376": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1104394864558350429": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "994656297402241105": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1091333745421860864": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1077552279642714112": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1091016758032334858": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "849911467439816714": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1104438885762748416": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1038777165958893568": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "849877995128619008": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1104595166783881316": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1085877344100679690": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1104447915486887936": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "924320197416984577": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1032978441714286682": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1104436579625357342": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1104655324134252645": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "937717083037380609": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1050406371285291078": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1102527667833667685": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "971810180306194523": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1087675703769702446": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1073077966646558770": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1062966350533894164": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "959503491255115826": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1104746105700356126": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1098988222794698782": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1103581564513824828": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1045329795258531901": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "903989846836658226": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1000084862700625960": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1076593320421228644": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1104764348053864539": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1098223780091920466": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1089830198431711232": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1089830198431711235
+        },
+        "1095227680166789140": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1049588580449792050": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1032251143490912306": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1032274764326240346": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1032253707724800030": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1032263464342794290": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1033323699828445254": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1032271967753080934": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1100778082257862728": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1101849023574454294": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1103147494055084113": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1080807761920667718": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1105145976005607434": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1088080898454458410": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1059820972494033008": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1103716920894697644": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "879541867262398524": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "793332019064471575": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1105381635316260864": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1089201476238315681": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "825681647315845162": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "805443019326357535": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1105478129239195761": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1105464575719112734": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1105506417500242010
+        },
+        "866529237326102568": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "979806204979183706": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1105540337570689026": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1015354273346891856": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "724609826474295407": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "894214768896905277": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1103285033713807422": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1078539863793619064": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1096485674095480852": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1105343730359218196": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "928141166522794004": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1031950275835080818": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "900348868930175006": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1091982046898962464": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1086715763819286688": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1002434883530006611": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1085932180791906474": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1020939641026773023": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1099316033334034434": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1098373208396271617": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1105891711894442007": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "668095429958828042": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "824225797992087552": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1102524388378677300": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1070710037229621328": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1093528923545026681": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1089871614469996654": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "801656636136489001": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "880378717778632714": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1104605773436297276": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1095669320530530386": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "546391828757217292": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1092769041158000640": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "973393058924204074": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1104066429990486136": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1100295217158033430": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "843515816434991104": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1106877164206432327
+        },
+        "1103976255755390978": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1099761814843166750": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1102235374257983549": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "987618961489276950": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1103270399061536834": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1022733538195415070": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1102860623244701799": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1035935790510903306": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1106529014522331166": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "990573954597019658": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1106032282902462545": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1004715758942683246": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1087772406657077288": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1106512511043387404": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1098079909202628618": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1062736605611315251": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1106856470986903624": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1075298802954674177": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "856082865879253012": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 856141401791004722
+        },
+        "1061238585094832189": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1086185405826732072": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1081616024870342697": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "932513696901627994": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1096357669364842529": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1055723850580643891": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1106415282752344136": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1106270912732463318": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "985779267252129793": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1035016701164654725": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "597130869492285465": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1098931963265568898": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1103198868478373941": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1101823633611046962": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1107242142197350450": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "946548584088764466": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1100334355894771714": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1119217165984333905
+        },
+        "1071431827467808900": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1106173474868842538": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1107240925505277994": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1102064483775549500": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1103230506377678868": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1103993825363513446": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "875385866258886676": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1085827659445043262": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1096509591656869950": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1031581278140633129": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1107698701285195828": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1036305267090018446": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1104999087574622218": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1106058226824392724": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1107897713758056459": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1105433963364892692": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1074715708015005746": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1080127569690632272": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1107901317877338174": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1041986623275016192": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1107661310289789008": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1075670283727405086": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1102062176061096027": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1108002115021979760": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1107317265591967766": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1022679710943150141": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1108016652030857276": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1103716825675616296": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1105879047155753023": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1095643507290542091": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1046952142843428926": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1099187476096094228": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1104222856193261659": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "856819757965639680": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1096838326553690274": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1117105633758556241
+        },
+        "1104424191937220700": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1105077688244387910
+        },
+        "1099317646069076009": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1107361914834653266
+        },
+        "1098178768503328849": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1111901765374328862
+        },
+        "902059916372627467": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1104807481621884959
+        },
+        "939937362950107236": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 939937363587649577
+        },
+        "1082497697967247450": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "906824939796070461": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "762696440191123506": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1066967784409530398": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1112558149493325894": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1119942058443030538
+        },
+        "1086979266928979990": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1042438293482119228": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1101396404867448853": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1092326754523291648": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "927170235914670110": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "976893035633836083": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1095346027344699452": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1111175920028504124": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1114948063304351785": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1104282826628661259": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1099597962805510214": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1110874983237947484": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1114733752980090953": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1110085690466766908": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1019512985225539614": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1096410051805188159": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1088122632479715459": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1109453620669325467": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1106224980380893254": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1074625776781119488": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1109697531329384460": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1046767694617260153": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "827546608999727162": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1060810686755774484": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1035290238353944678": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1102207825171718194": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1111157933997314150": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1106311915677958255": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "862357125702483988": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1070295934270971964": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1077521729682939934": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1015678287290310677": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1111561705768624139": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1007661560791056495": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1110081809108172832": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1113463632005697548": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "996803019305926656": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "980758979581980693": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1092747226570293300": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "932994263501918250": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1114434122249674782": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1086630407170162778": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1035843875232821299": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1091406855684771921": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1106992562063036427": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1095329736512782356": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "865169268341080074": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1113083835891064915": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "953519466367578142": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1033927321087909948": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "862158629025480774": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1109899735772434563": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1100421838854692954": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1070717660985298994": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1068172427789602947": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "979654509368336404": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1066280286519820298": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1107569629133549588": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1106527292206891058": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "941568252650324018": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1115679962503061655": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1114431823821414411": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1112626901538840627": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1005718072058978314": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1051742119640956938": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "827590366516740098": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1073189099181187102": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1109669455887343659": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1103716483286184027": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1088089735911714896": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1048655656929988688": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1082301655007105044": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1106817615558615092": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1095797392818851981": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1115960052801613919": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1084856958244372580": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1104755481743990814": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "828462366177230848": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1095393827671507016": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1022907269203099669": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1104681191648530506": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1110102074240286790": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1108013656517652633": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1117015525931892756": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1097856107705270408": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1091280012231065700": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "955749367195779114": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1112047328715624550": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1117023439790813268": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1032922271863549962": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "922726658866290730": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1120250787575119922
+        },
+        "1100392572800733277": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1060488426719297586": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1110383343708676118": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "950671446470959144": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1070342496481181697": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1117361306526294056": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1072870678598012979": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1108591047887573043": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1115325451666202735": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1114824524643450912": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "783335167636275210": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "966329882487435305": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1116018254213828618": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1116984791724732436": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1016214851850350632": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "475620344829313045": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1105327718549180526": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1101932183045799957": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1050339151200919582": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1117598621966291034": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1111885608521056349": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1086256885021298708": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1116554778495954965": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1118431311649054731": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "565375052623904778": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1097154330668306542": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1092068703107026975": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1049505885128491149": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1071050741873131580": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1102262290054664262": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1114528512662065244": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1118886972405055529": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1118915343314853908": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1115852186237292615": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1101014488041402509": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1106789818295394314": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "954667126323544094": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1095626089965047808": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1119236512077320402": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1069270872071880815": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1116017381190406144": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1086241850979008572": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "996356320754139166": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1114617164784214148": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1113640979417804800": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1119305345374896128": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1055492063178784929": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "917857255217569852": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1077505288531345488": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1057534867891572766": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1118912575103574016": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "938089679989923890": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1119334842723737710
+        },
+        "1102109001619095644": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1041239115653451776": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1119234101459820645": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1118184727657062480": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1116246685941764149": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1105091973347549246": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1055285092018294804": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1118619788713918524": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1118074086355112056": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1119601998237544572": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1118841473241186344": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1119670527225774114": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "948630576800337941": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1117427128108056698": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1088813784400936970": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1114297201670230076": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1085590980759138424": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1048886596159684699": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1110268027951382689": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1078521336751730748": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1104720325175943238": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1117302011818426530": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1022687506896003072": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1120706037868146720": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1120733759734562946
+        },
+        "1115526319896281108": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1120938400283897948": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "980457692298629222": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1112995030945239120": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1120739658263969852": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1119062444829069344": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1093949673003294813": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1120219524206182410": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1120277600787509258
+        },
+        "1121016624695218287": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1117408248451039343": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1101523239202725969": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1119962592870416475": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1006671526671696013": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1025796601429643305": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1000603562285473923": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1010842142178033694": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1121492018405847040": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1121564606922502194": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1120563757349871647": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "997145946133631028": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1121658288170336306": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1120004466138161192": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1115797925675683970": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1118784870685089904": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1117317514821632090": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1118441225108860981": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1123303850753937601
+        },
+        "1122087838465404999": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1122157068695126046": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1017799456046993510": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1122169297129709638": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1120727907006947386": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1104004418837422180": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1122186276339204136
+        },
+        "1122352165713891368": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1095710804235526237": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1122450654019997797": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1119094013283278938": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "990143764188246026": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1112043274555904082": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1113169627489521757": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "924034682818015263": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1121009539035185162": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1121734177864286378": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1084069698611728444": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "854331995327692820": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1083808835480854579": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1063103485790388254": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1110986552697430086": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1115506366136733706": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1115506366136733709
+        },
+        "735903380139933838": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1122082736824397844": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1122729303155691531": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1122902929309958154": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "966949311386648586": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1123274337907114076": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1123510774191624272": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "949616784300998736": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1122752453385916477": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1120729741884923936": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1123510302265331742": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1035531261676101692": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1123566940766613594": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1074948717079175228": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1094202719088164864": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1123675388288192567
+        },
+        "1104976582218629132": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1069566214482968606": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1066798790033543208": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1124018450478678068": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1116603741181857893": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1044656151284944917": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "564349531240660992": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1112282044261744740": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1054751152786374717": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1119653038127317002": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1116192035146309696": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1101747235991072780": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1124293747832795236": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1122372572382765086": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1123107704202862592": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1108803775642214460": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1105447285866897529": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1104633112278872207": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1092749195640832011": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1092749196496470143
+        },
+        "1023983265465512107": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "986127221720752189": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "999984136888528926": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1115915059449839716": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "892702510178000927": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1108650873099386960": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1092329346011758592": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1124575306028699658": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1122725636537057381": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "858961454391754772": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1115616620358926347": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1105488767340527749": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1097430365485932544": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1123346604225736704": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1069569126596612186": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "816692123050442772": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1117040104507183134": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "811664874639065109": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1125137591583387728": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1080803263907102720": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1123557796789620849": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1048279010876080219": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1125034165998461038": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "891284368356679701": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1092734390079074334": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1125311736086548562": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1045564619743309984": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1100754636174008320": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1084816168054964234": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1092063734945562694": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1124307399235358751": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1006536357809758269": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1125395853436260426": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1091279454384431104": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1122572384847794216": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1021270579816443945": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1118058059017756752": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1125635281056448574": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "939035675351736350": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1058005063018225664": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1125742875498528839": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1120298802860011590": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1059732946350784584": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1123244566598918267": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1124752028703404114": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1125784893578805460": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1123654644153983016": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1101535464118308924": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1125909428818940015": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1125811040047857664": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1075500670557360239": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1123440203751759923": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1123158581643071528": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1118082495162888292": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1120984846290915431": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1126165416604090468": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1126851951234138213
+        },
+        "1126727446062977104": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1087377168721530991": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1119666670148006138": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1116258912245645372": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1120439481296752744": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1092761948401172502": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1126818658069532742": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1113535376208953466": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1042121015393783818": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1098544173843484712": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1098921271657496607": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1127492656927346758": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1122031643713077278": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1125420548944560192": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1066606303734149172": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1127608732646379581": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1065258481084530688": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1127676642710540359
+        },
+        "770559575605641258": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "930392728741761075": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "956581292705722478": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "824527989496086529": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1031629039250706462": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1082169718695280680": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1066745967761707128": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1126473961560100916": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1090336253402165358": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1114015294977998918": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1126461360365109289": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1074894112924373032": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "827937108412071936": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": null
+        },
+        "1125322908533796944": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1132910785186766859
+        },
+        "1129729781131386890": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1129733083927695361
+        },
+        "1127450062742634576": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1133046874509680833
+        },
+        "1083785361714585702": {
+            "channels": [],
+            "whitelist": [],
+            "whitelisted": [],
+            "chatbot": null,
+            "aich": 1083785362586992722
+        }
+    }
+}

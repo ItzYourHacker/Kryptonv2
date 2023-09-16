@@ -1,0 +1,724 @@
+{
+    "246469891761111051": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [
+            "1069292189395452085"
+        ],
+        "expire_at": 1717685475
+    },
+    "953204630794428416": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1722692420
+    },
+    "874518805173395497": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1722077463
+    },
+    "1114412867387654154": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1720373544
+    },
+    "1077943713348714537": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1691514569
+    },
+    "1014106569945927682": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1691515795
+    },
+    "983718279254278165": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1691545157
+    },
+    "1085806192003137536": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1694149252
+    },
+    "700008707010068512": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1694410043
+    },
+    "947326121786085397": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1691582660
+    },
+    "811360090665254942": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1691584138
+    },
+    "995614811658407976": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1691589218
+    },
+    "707103874497904682": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1691596718
+    },
+    "877809537527189504": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1691602363
+    },
+    "947036986550681620": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1691602786
+    },
+    "906085578909548554": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1693471684
+    },
+    "833968157579280384": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1691635359
+    },
+    "733692705078640682": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1691635447
+    },
+    "1007291326657736715": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1693144204
+    },
+    "875617517714964530": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1720666691
+    },
+    "1085583377010270238": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1691903986
+    },
+    "924616449715212368": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1721744820
+    },
+    "1098608991585710082": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1691904038
+    },
+    "1111549183124586558": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1691912412
+    },
+    "827759647410487368": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1692005066
+    },
+    "1095956536196616202": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1692033245
+    },
+    "875592505071112222": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1693748375
+    },
+    "976057398450077736": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1692108038
+    },
+    "1071817972223578164": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1692263291
+    },
+    "746019012844060703": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1692300375
+    },
+    "862284282550419476": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1692376990
+    },
+    "669528822609346570": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1692378764
+    },
+    "982888477307858944": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1692553845
+    },
+    "958037237084323861": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1692553851
+    },
+    "976884582622298162": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1692592910
+    },
+    "1069535459421724672": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1692658323
+    },
+    "1059520703612866570": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1722614333
+    },
+    "1103347384358031431": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1692713205
+    },
+    "1002805989516529665": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1692783263
+    },
+    "971323993229516820": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1692791245
+    },
+    "835852195991650314": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1692799505
+    },
+    "1131561143597547551": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1722614299
+    },
+    "1113766230755655740": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1692872395
+    },
+    "946802526584463381": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1693144282
+    },
+    "1007906691230216245": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1725808683
+    },
+    "948271143343783957": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1693280945
+    },
+    "920336941155749929": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1693285790
+    },
+    "1033069183249952908": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1722275384
+    },
+    "844770923537367080": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1696147840
+    },
+    "1029065620878282792": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1693468131
+    },
+    "1045655802322624603": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1693494074
+    },
+    "723367577069551666": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1693517283
+    },
+    "1131610350886846655": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1693540393
+    },
+    "785708354445508649": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1722513287
+    },
+    "988811090521653258": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1722515083
+    },
+    "1082901401358848053": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1693578094
+    },
+    "712609377508392991": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1693595185
+    },
+    "912952650906083329": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1693630908
+    },
+    "957174012918784120": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1693719628
+    },
+    "739172623547629569": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1693734311
+    },
+    "1033579545254711336": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1725254982
+    },
+    "1051083854112358551": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1722696379
+    },
+    "1119533709465485352": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1722708330
+    },
+    "1013311890031644782": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1693997214
+    },
+    "1084853104920498267": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1725529768
+    },
+    "826863667966509096": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1722952746
+    },
+    "809331208814460928": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1694062653
+    },
+    "1046270996132417547": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1723011746
+    },
+    "1103331364503289856": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1694070528
+    },
+    "863640965742067742": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1694107090
+    },
+    "1117086653157220373": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1694151097
+    },
+    "881503294550323212": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1723220183
+    },
+    "831861985171341342": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1724658572
+    },
+    "937207712197013525": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1694280134
+    },
+    "1138281347241213992": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1723269774
+    },
+    "735003878424313908": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1723340482
+    },
+    "1089484179676352564": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1694422786
+    },
+    "768322283709268029": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1694425646
+    },
+    "1007627514493009930": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1694618514
+    },
+    "283127777383809024": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1724343530
+    },
+    "1118247311710105784": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1695399672
+    },
+    "1116581047535157368": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1695528298
+    },
+    "259176352748404736": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1724473531
+    },
+    "911894386634276905": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1695706098
+    },
+    "1144676735703601213": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1724650105
+    },
+    "1088803637075120158": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1724658318
+    },
+    "789932953605242901": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1695994699
+    },
+    "1088109559043862579": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1725010752
+    },
+    "871599547720290314": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1725031620
+    },
+    "851665900377604096": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1696137456
+    },
+    "1031050808994844673": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1725178813
+    },
+    "875202113481871371": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1696239608
+    },
+    "289100850285117460": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1696245952
+    },
+    "658575338909073409": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1725230580
+    },
+    "870272290875670528": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1725383414
+    },
+    "1148093638816055306": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1725419806
+    },
+    "949177412741103697": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1725452682
+    },
+    "1086567184920227900": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1725464045
+    },
+    "1102172546436182068": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1725524849
+    },
+    "705702946754527252": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1725545113
+    },
+    "1020244558828802098": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1725549306
+    },
+    "1141025944505692211": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1725612583
+    },
+    "1049830932997218354": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1725613768
+    },
+    "993563021735637003": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1696686337
+    },
+    "1022080754135613480": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1725696912
+    },
+    "1071817768304910336": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1725758747
+    },
+    "937299397455282206": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1725769418
+    },
+    "875291610982797322": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1725784583
+    },
+    "1015587064709914644": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1696843671
+    },
+    "165191700820525056": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1725808705
+    },
+    "1093552984601923654": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1696873240
+    },
+    "1104277925043376219": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1696961634
+    },
+    "1070439556219928596": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1725910957
+    },
+    "974202730266624051": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1696971217
+    },
+    "795531073920565249": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1696998684
+    },
+    "1000681015225880647": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1697023883
+    },
+    "323429313032486922": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1725971372
+    },
+    "637114419641581568": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1725972279
+    },
+    "1083447494219935825": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1726000015
+    },
+    "1034457139382583347": {
+        "tier": "Gold Tier",
+        "guild_limit": 10,
+        "premium_guilds": [],
+        "expire_at": 1697099743
+    }
+}
