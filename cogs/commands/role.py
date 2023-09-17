@@ -1417,5 +1417,77 @@ Shows custom aliases role for the server .
             hacker5.set_author(name=f"{ctx.author.name}",
                                icon_url=ctx.author.display_avatar.url)
 
-            await ctx.send(embed=hacker5, mention_author=False)          
-
+            await ctx.send(embed=hacker5, mention_author=False)     
+            
+    @commands.Cog.listener()
+    async def on_message(self, message: discord.message):
+        await self.bot.wait_until_ready()
+        if message.guild is None:
+            return
+        if not message.guild.me.guild_permissions.read_messages:
+            return
+        if not message.guild.me.guild_permissions.read_message_history:
+            return
+        if not message.guild.me.guild_permissions.view_channel:
+            return
+        if not message.guild.me.guild_permissions.send_messages:
+            return
+        else:
+            with open("alias_role.json", "r") as f:
+                ls = json.load(f)
+            if str(message.guild.id) in ls:
+                    content = ""
+                    content = message.content.lower()
+                    pre = ['.']
+                    for k in pre:
+                        if content.startswith(k):
+                            content = content.replace(k, "").strip()
+                            prefix = k 
+                    customrole = ls[str(message.guild.id)]
+                    for trigger in customrole:
+                        if content.startswith(trigger): 
+                            u = None                                             
+                            for botss in message.mentions:
+                                if botss.bot:
+                                    continue
+                                else:
+                                    u = botss
+                                    break
+                            if u is None:
+                                em = discord.Embed(description=f"<:cross_hacker:1148075305576177686> You forgot to mention the user argument.\nDo it like: `{trigger} <member>`", color=self.color)
+                               
+                                return await message.reply(embed=em, delete_after=7)
+                            if u.id == message.author.id:
+                                em = discord.Embed(description=f"<:cross_hacker:1148075305576177686> You cant change your own roles", color=self.color)
+                               
+                                return await message.reply(embed=em, delete_after=7)
+                            else:
+                                    data = getConfig(message.guild.id)
+                                    lol = data['reqrole']                       
+                                    req = discord.utils.get(message.guild.roles, id=lol)
+                                    if req is None:
+                                        pass
+                                    else:
+                                        if req not in message.author.roles:
+                                            em = discord.Embed(description=f"<:cross_hacker:1148075305576177686> You need {req.mention} role to use this command.", color=self.color)
+                                            
+                                            return await message.reply(embed=em)
+                                        
+                                        scdl = customrole[(trigger)]
+                                        Role = discord.utils.get(message.guild.roles, id=int(scdl))
+                                        if Role.position >= message.guild.me.top_role.position:
+                                            em = discord.Embed(description=f"<:cross_hacker:1148075305576177686> {Role.mention} is above my top role.", color=self.color)
+                                            
+                                            return await message.reply(embed=em)
+                                        if Role in u.roles:
+                                            await u.remove_roles(Role)
+                                            em=discord.Embed(description=f"{tick} | Successfully Removed {Role.mention} from {u.mention}", color=self.color)
+                                            
+                                            return await message.reply(embed=em)
+                                        else:
+                                            await u.add_roles(Role)
+                                            em=discord.Embed(description=f"{tick} | Successfully Given {Role.mention} to {u.mention}", color=self.color)
+                                           
+                                            return await message.reply(embed=em)
+                    return 
+            return 
